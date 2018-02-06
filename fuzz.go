@@ -8,6 +8,7 @@
 // See also: https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c
 
 // +build gofuzz
+
 package fixbuf
 
 import (
