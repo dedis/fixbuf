@@ -1,4 +1,4 @@
-package fixbuf
+package fixbuf // import "go.dedis.ch/fixbuf"
 
 import (
 	"encoding/binary"
